@@ -1,6 +1,6 @@
 ### Grüezi, stahs2021
 
-######Welcome to the 2021 <Statistical Analysis of High-Throughput Genomic and Transcriptomic Data> repository
+**Welcome to the 2021 <Statistical Analysis of High-Throughput Genomic and Transcriptomic Data> repository**
 
 Here, mainly I'll post what I learned from the class. 
 
