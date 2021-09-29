@@ -9,8 +9,7 @@ Now, below you can find some infos about _me_.
 
 [Find more about **me**: Linkedin](https://www.linkedin.com/in/sunho-kim-1a942b166/)
   
-![sunhollyjolly](https://blog.naver.com/common/util/imageZoom.jsp?url=https://blogpfthumb-phinf.pstatic.net/MjAxNzEwMzFfMjk4/MDAxNTA5MzgyNDU4MDk1.v0ryuHueNpODkbvVYjqIKDoDXwbkZigVD5WhNbSYGwUg.CNpPMzCtXqx3LSKfAhOuM8Pku80MhvXI61i-JKGGk6Qg.JPEG.97sun3/IMG_0402.JPG&rClickYn=true&isOwner=true.png)
-
+![sunhollyjolly](https://user-images.githubusercontent.com/47406799/135354193-88afef91-9d59-4352-8f2b-f54eb2170ddb.JPG)
   
   
 I hope you have a nice day!
