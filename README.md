@@ -2,7 +2,7 @@
 
 **Welcome to the 2021 <Statistical Analysis of High-Throughput Genomic and Transcriptomic Data> repository**
 
-Here, mainly I'll post __what I learned from the class.__
+Here, mainly I'll post _what I learned from the class._
 
 Now, below you can find some infos about _me_. 
 
