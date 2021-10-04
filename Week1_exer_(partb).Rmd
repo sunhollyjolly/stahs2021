@@ -1,0 +1,37 @@
+---
+title: "Rmarkdown and Plotly"
+author: "Plotly"
+date: "10/3/2021"
+output: html_document
+---
+###"Week 1 Exercise (part b)
+##Aquainting myself with knitR PDF/HTML Rmarkdown documents
+
+#Drawing values from the log-normal distribution (generate data for mu = 1, sigma = 0.25)
+```{r}
+x = rlnorm(n = 100, meanlog = 0, sdlog = .25)
+
+```
+
+## Including Plots: Histogram (histogram visualisation of the sample values)
+
+```{r, echo=FALSE}
+#histogram
+hist(x,
+     main = "Exercise Wk1 (partb)",
+     xlab = "x",
+     ylab = "Frequency"
+     )
+
+#log-transformed histogram
+hist(log(x))
+```
+## What's Mean and Variance of this sample?
+```{r pressure, echo=FALSE}
+mean <- mean(x)
+variance <- var(x)
+
+mean
+variance
+```
+
